@@ -1,2 +1,0 @@
-# omf
-My omf repository
